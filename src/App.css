@@ -1,0 +1,13 @@
+.word-ctn {
+    display: flex;
+}
+
+.letter-ctn {
+    font-size: xx-large;
+    width: 30px;
+    border: 4px solid black;
+    margin-top: 10px;
+    margin-left: 20px;
+    text-align: center;
+    text-transform: capitalize;
+}
